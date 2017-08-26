@@ -1,6 +1,6 @@
 // npm install telebot --save
 // npm install request
-// npm install mysql, xmldom
+// npm install mysql xmldom
 
 var sessions = [];
 
